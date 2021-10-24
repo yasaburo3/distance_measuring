@@ -1,0 +1,8 @@
+prefix=/home/yasaburo3/project/rs_ws/devel
+
+Name: MotionSolver
+Description: Description of MotionSolver
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
